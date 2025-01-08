@@ -2,7 +2,7 @@
 Some deep neural network projects corresponding to the course IKT450
 
 ## KNN
-This project implements the K-Nearest Neihbours (KNN) algorithm from scratch. The program is used to classify whether a patient has diabetes or not.
+This project implements the K-Nearest Neihbours (KNN) algorithm from scratch. The program is used to classify whether a patient has diabetes or not.    
 ![KNN-metrics](https://github.com/user-attachments/assets/7a8ad6c2-66a8-4d36-9d2e-a653651e2db8)
 
 ## MLP
